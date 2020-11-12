@@ -1,3 +1,6 @@
+# Keep new images out of repo
+*.jpg
+
 .DS_Store
 node_modules
 /dist
